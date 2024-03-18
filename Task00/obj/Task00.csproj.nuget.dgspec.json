@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\white\\OneDrive\\Рабочий стол\\С#\\Task00\\Task00.csproj": {}
+    "C:\\Users\\white\\OneDrive\\Рабочий стол\\Csharp\\Task00\\Task00.csproj": {}
   },
   "projects": {
-    "C:\\Users\\white\\OneDrive\\Рабочий стол\\С#\\Task00\\Task00.csproj": {
+    "C:\\Users\\white\\OneDrive\\Рабочий стол\\Csharp\\Task00\\Task00.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\white\\OneDrive\\Рабочий стол\\С#\\Task00\\Task00.csproj",
+        "projectUniqueName": "C:\\Users\\white\\OneDrive\\Рабочий стол\\Csharp\\Task00\\Task00.csproj",
         "projectName": "Task00",
-        "projectPath": "C:\\Users\\white\\OneDrive\\Рабочий стол\\С#\\Task00\\Task00.csproj",
+        "projectPath": "C:\\Users\\white\\OneDrive\\Рабочий стол\\Csharp\\Task00\\Task00.csproj",
         "packagesPath": "C:\\Users\\white\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\white\\OneDrive\\Рабочий стол\\С#\\Task00\\obj\\",
+        "outputPath": "C:\\Users\\white\\OneDrive\\Рабочий стол\\Csharp\\Task00\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\white\\AppData\\Roaming\\NuGet\\NuGet.Config"
