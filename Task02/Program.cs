@@ -1,39 +1,27 @@
-﻿/*
-Напишите программу, которая будет выдавать 
-название дня недели по заданному номеру.
-3 -> Среда
-5 -> Пятница
+﻿/* Напишите программу, которая на вход принимает два числа и выдаёт, 
+какое число большее, а какое меньшее
+a = 5; b = 7 -> min = 5; max = 7
+a = 2; b = 10 -> min = 2; max = 10
+a = -9; b = -3 -> min =-9; max = -3
 */
-int number = Convert.ToInt32(Console.ReadLine());
-if (number == 1)
+Console.WriteLine("Введите два числа");
+int number1 = Convert.ToInt32(Console.ReadLine());
+int number2 = Convert.ToInt32(Console.ReadLine());
+
+if (number1 > number2)
 {
-    Console.Write("Понедельник");
-}
-else if (number == 2)
-{
-    Console.Write("Вторник");
-}
-else if (number == 3)
-{
-    Console.Write("Среда");
-}
-else if (number == 4)
-{
-    Console.Write("Четверг");
-}
-else if (number == 5)
-{
-    Console.Write("Пятница");
-}
-else if (number == 6)
-{
-    Console.Write("Суббота");
-}
-else if (number == 7)
-{
-    Console.Write("Воскресенье");
+    Console.WriteLine("макс="+number1);
 }
 else
 {
-    Console.Write("Такого дня недели нет");
+    Console.WriteLine("мин="+number1);
 }
+if (number1 < number2)
+{
+    Console.WriteLine("макс="+number2);
+}
+else
+{
+    Console.WriteLine("мин="+number2);
+}
+ 
