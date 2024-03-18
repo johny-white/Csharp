@@ -1,0 +1,15 @@
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\bin\Debug\net8.0\Task08.exe
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\bin\Debug\net8.0\Task08.deps.json
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\bin\Debug\net8.0\Task08.runtimeconfig.json
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\bin\Debug\net8.0\Task08.dll
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\bin\Debug\net8.0\Task08.pdb
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\obj\Debug\net8.0\Task08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\obj\Debug\net8.0\Task08.AssemblyInfoInputs.cache
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\obj\Debug\net8.0\Task08.AssemblyInfo.cs
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\obj\Debug\net8.0\Task08.csproj.CoreCompileInputs.cache
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\obj\Debug\net8.0\Task08.sourcelink.json
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\obj\Debug\net8.0\Task08.dll
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\obj\Debug\net8.0\refint\Task08.dll
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\obj\Debug\net8.0\Task08.pdb
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\obj\Debug\net8.0\Task08.genruntimeconfig.cache
+C:\Users\white\OneDrive\Рабочий стол\С#\Task08\obj\Debug\net8.0\ref\Task08.dll
