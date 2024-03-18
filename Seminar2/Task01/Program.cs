@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Введите число");
+Console.WriteLine((int.Parse(Console.ReadLine()!) % 161 == 0) ? "Число кратно одновременно 7 и 23." : "Число НЕ кратно одновременно 7 и 23.");
