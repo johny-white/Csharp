@@ -15,12 +15,11 @@ for (int i = 0; i < arr.Length; i++)
 }
 System.Console.WriteLine();
 int count = 0;
-for (int i = 0; i < arr.Length; i++)
+foreach (int e in arr)
 {
-    if (arr[i] >= 20 && arr[i] <= 90)
+    if (e >= 20 && e <= 90)
     {
-        count = count + 1;
-        Console.Write($"{count} ");
+        count++;
     }
-
 }
+Console.Write($"{count} ");
