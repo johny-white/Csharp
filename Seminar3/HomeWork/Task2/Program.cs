@@ -20,6 +20,6 @@ for (int i = 0; i < arr.Length; i++)
     if (arr[i] % 2 == 0)
     {
         count++;
-        Console.Write($"{count} ");
     }
 }
+Console.Write($"{count} ");
